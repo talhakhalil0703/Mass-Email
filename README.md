@@ -1,0 +1,2 @@
+# Mass Emailer
+Simple mass emailer app I created, stores username and  password in enviroment variables, contacts must follow the convention of firstname, lastname, email, in csv format. Automatically adds "Hi firstname," to the body of the message.
